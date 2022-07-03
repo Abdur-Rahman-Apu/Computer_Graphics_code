@@ -1,0 +1,1 @@
+Click right of the mouse to rotate and can use left button of the mouse.
